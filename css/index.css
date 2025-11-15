@@ -1,0 +1,89 @@
+body {
+    background-image: url(../img/programacion.jpg);
+    color: white;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; 
+    margin: 5%;
+    text-align: center;
+}
+
+#contenedor {
+    height: 400px; 
+    width: 100%;
+
+}
+
+.aside-1 { 
+    background-color: #1C6A9D;
+    height: 50px; 
+    width: 100%;
+
+}
+
+.header-2 { 
+    background-color: #FA7B4C;
+    float: left;    
+    height: 350px; 
+    width: 33.33%;
+
+}
+
+.HTML{
+    height: 320px;
+    margin-left: 10px;
+    margin-top: 10px;
+    width: 320px;
+}
+
+.HTML:hover{
+    filter: grayscale(5%);
+    filter: sepia(5%);
+    transform: scale(1.1);
+    transition: 1s;
+}
+
+.section-3 { 
+    background-color: #4CB1E2;
+    float: left;
+    height: 350px; 
+    width: 33.33%;
+}
+
+.CSS{
+    height: 370px;
+    margin-left: 10px;
+    width: 370px;
+}
+
+.CSS:hover{
+    filter: grayscale(5%);
+    filter: sepia(5%);
+    transform: scale(1.1);
+    transition: 1s;
+}
+
+.section-4 { 
+    background-color: #FFDF51;
+    float: right;
+    height: 350px;
+    width: 33.33%;;
+}
+
+.JS{
+    height: 350px;
+    margin-right: 10px;
+    width: 350px;
+}
+
+.JS:hover{
+    filter: grayscale(5%);
+    filter: sepia(5%);
+    transform: scale(1.1);
+    transition: 1s;
+}
+
+.aside-5 { 
+    background-color: #3E3A6C;
+    clear: both;
+    height: 220px;
+    width: 100%;
+}
